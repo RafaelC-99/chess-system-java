@@ -2,7 +2,7 @@
 
 ![Chess](https://user-images.githubusercontent.com/66887702/145661121-e0a26651-5150-4941-9fe2-d236929a24f7.png)
 
-This project was proposed by professor Nélio Alves. Its objective was to condense the learning of the contents of JAVA programming language and Object Orientation.
+This project was proposed by professor Nélio Alves. Its objective was to condense the learning of the contents of JAVA programming language and Oriented Object.
 
 The chess system diveded into two layers: Board Game Layer and Chess Layer:
 
