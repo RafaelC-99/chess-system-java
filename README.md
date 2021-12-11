@@ -8,7 +8,7 @@ The chess system is diveded into two layers: Board Game Layer and Chess Layer:
 
 The board game layer is responsible for instantiating the game board and pieces. It is also responsible for verifications of existing pieces and positions within the matrix and the removal and placement of pieces within the board.
 
-The chess layer is responsible for the logic and solving challenges of a chess game such as capturing pieces, performing the piece type moves, check, checkmate, possible moves and so on.
+The chess layer is responsible for the logic and solving challenges of a chess game such as capturing pieces, performing a piece move acording to its type, check, checkmate, possible moves and so on.
 
 The following letters stands for in the game:
 
@@ -34,7 +34,7 @@ The following letters stands for in the game:
  
 A camada board game é responsável pela instanciação do tabuleiro e as peças do jogo. Também é responsável pelas verificações de existência de peças e posições dentro da matriz e pela remoção e colocação de peças no tabuleiro.
 
-A camada chess é responsável pela lógica e a resolução dos problemas de um jogo de xadrez como capturas de peças, execução do movimento do tipo da peça, cheque, cheque-mate, movimentos possíveis e assim por diante.
+A camada chess é responsável pela lógica e a resolução dos problemas de um jogo de xadrez como capturas de peças, execução do movimento da peça de acordo o seu tipo, cheque, cheque-mate, movimentos possíveis e assim por diante.
 
 As letras a seguir significam no jogo:
 
