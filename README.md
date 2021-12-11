@@ -4,7 +4,7 @@
 
 This project was proposed by professor Nélio Alves. Its objective was to condense the learning of the contents of JAVA programming language and Oriented Object.
 
-The chess system diveded into two layers: Board Game Layer and Chess Layer:
+The chess system is diveded into two layers: Board Game Layer and Chess Layer:
 
 The board game layer is responsible for instantiating the game board and pieces. It is also responsible for verifications of existing pieces and positions within the matrix and the removal and placement of pieces within the board.
 
