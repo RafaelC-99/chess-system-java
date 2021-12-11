@@ -14,7 +14,7 @@ The following letters stands for in the game:
 
    K -> King 
    
-   N -> Kngiht
+   N -> Knight
    
    Q -> Queen
    
