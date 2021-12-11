@@ -10,10 +10,15 @@ The chess layer is responsible for the logic and execution of problems in a ches
 
 The following letters stands for in the game : 
    K -> King 
+   
    N -> Kngiht
+   
    Q -> Queen
+   
    R  -> Rook
+   
    B -> Bishop
+   
    P -> Pawn
  
  For better experiences it is recommended to run the application with the git terminal on windows.
@@ -30,10 +35,15 @@ A camada chess é responsável pela lógica e a execução dos problemas de um j
 
 As letras a seguir significam no jogo:
   K -> Rei
+  
   N -> Cavalo
+  
   Q -> Rainha
+  
   R -> Torre
-  B -> Bispo 
+  
+  B -> Bispo
+  
   P -> Peão
   
  Para melhores experiências do jogo é recomendavel executar a aplicação com o terminal git no windows.
