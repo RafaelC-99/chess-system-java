@@ -10,7 +10,8 @@ The board game layer is responsible for instantiating the game board and pieces.
 
 The chess layer is responsible for the logic and execution of problems in a chess game such as capturing pieces, performing the piece type moves, check, checkmate, possible moves and so on.
 
-The following letters stands for in the game : 
+The following letters stands for in the game:
+
    K -> King 
    
    N -> Kngiht
@@ -36,6 +37,7 @@ A camada board game é responsável pela instanciação do tabuleiro e as peças
 A camada chess é responsável pela lógica e a execução dos problemas de um jogo de xadrez como capturas de peças, execução do movimento do tipo da peça, cheque, cheque-mate, movimentos possíveis e assim por diante.
 
 As letras a seguir significam no jogo:
+
   K -> Rei
   
   N -> Cavalo
