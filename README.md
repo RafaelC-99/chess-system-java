@@ -1,5 +1,7 @@
 ## JAVA CHESS PROJECT 
 
+![Chess](https://user-images.githubusercontent.com/66887702/145661121-e0a26651-5150-4941-9fe2-d236929a24f7.png)
+
 This project was proposed by professor Nélio Alves. Its objective was to condense the learning of the contents of JAVA programming language and Object Orientation.
 
 The chess system diveded into two layers: Board Game Layer and Chess Layer:
@@ -45,5 +47,5 @@ As letras a seguir significam no jogo:
   B -> Bispo
   
   P -> Peão
-  
+
  Para melhores experiências do jogo é recomendavel executar a aplicação com o terminal git no windows.
